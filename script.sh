@@ -10,3 +10,4 @@ echo "List of files in the current directory:"
 ls -la
 echo "Environment variables:"
 echo "Script execution completed!"
+
