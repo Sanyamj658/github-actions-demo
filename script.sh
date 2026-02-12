@@ -11,3 +11,6 @@ ls -la
 echo "Environment variables:"
 echo "Script execution completed!"
 
+#!/usr/bin/env bash
+echo "Hello from GitHub Actions demo!"
+echo "Second line: CI is working."
